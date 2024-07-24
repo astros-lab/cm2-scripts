@@ -1,6 +1,6 @@
-<h1 align="center">cm2-programs</h1>
+<h1 align="center">cm2-scripts</h1>
 
-<h3 align="center">Programs for the Roblox Game Circuit Maker 2 using the cm2py package.</h3>
+<h3 align="center">Scripts for the Roblox Game Circuit Maker 2 using the cm2py package.</h3>
 
 <h4 align="center">
   <a href="https://discord.gg/WvPKJT5sKt">Discord</a>
